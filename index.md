@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to funworld
 
-I'm glad you are here. I plan to talk about ...
+I'm working through the Github tutorial.
